@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AnalogDiscovery_rs232_5_wire_sniffer-rescue")(type "KiCad")(uri "${KIPRJMOD}/AnalogDiscovery_rs232_5_wire_sniffer-rescue.kicad_sym")(options "")(descr ""))
+)

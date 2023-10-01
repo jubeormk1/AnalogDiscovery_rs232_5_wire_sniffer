@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinSocket_2x15_P2.54mm_Horizontal";1;"Conn_02x15_Counter_Clockwise";;;
+2;"C1,C7,C5,C4,C3,C6";"C_0402_1005Metric_Pad0.74x0.62mm_HandSolder";6;"0.1uF";;;
+3;"J5,J7,J8,J6";"PinHeader_2x06_P2.54mm_Vertical_SMD";4;"Conn_02x06_Odd_Even";;;
+4;"JP2,JP1";"SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm";2;"SolderJumper_2_Bridged";;;
+5;"H1,H4,H2,H3";"MountingHole_3.2mm_M3";4;"MountingHole";;;
+6;"C2";"C_0402_1005Metric_Pad0.74x0.62mm_HandSolder";1;"1.0uF";;;
+7;"IC2";"SOP65P640X120-28N";1;"TRSF3243EIPWR";;;
+8;"J2";"DSUB-9_Female_EdgeMount_P2.77mm";1;"DE9_Plug";;;
+9;"J4";"PinHeader_2x02_P2.54mm_Vertical_SMD";1;"Conn_02x02_Odd_Even";;;
+10;"IC1";"SOT-23-5_HandSoldering";1;"TCR2EF33,LM_CT";;;
+11;"J3";"DSUB-9_Male_EdgeMount_P2.77mm";1;"DE9_Receptacle";;;
