@@ -1,7 +1,8 @@
 # Analog Discovery RS-232 five wire sniffer add on circuit
-![Board render](https://github.com/jubeormk1/AnalogDiscovery_rs232_5_wire_sniffer/blob/8d48ef2b166bea9b51a53be1bf7e3a4918a038c9/output/AnalogDiscovery_rs232_5_wire_sniffer.png)
 ## Motivation
 While troubleshooting an old but extremely robust threadmill, I came across an RS-232 data link between the device and its master computer. Since I do not have any instruments to sniff the messages flowing through a RS-232 link, I decided to build an extension board to add this capability to my Analog Discovery II instrument (AD). To give myself more flexibility, I am adding plenty of headers to monitor extra signal lines in addition to the main RxD and TxD. A total of five lines can be monitored at any time.
+
+![Board render](https://github.com/jubeormk1/AnalogDiscovery_rs232_5_wire_sniffer/blob/8d48ef2b166bea9b51a53be1bf7e3a4918a038c9/output/AnalogDiscovery_rs232_5_wire_sniffer.png)
 
 ## Warnings
 Use it at your own risk. I take no responsibility for any damage caused to any device attached to this board. Since this is an experimental circuit, I assume that whoever is reading this is a tinker and has basic skills dealing with extra-low-voltage circuits.
