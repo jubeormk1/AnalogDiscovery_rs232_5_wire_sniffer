@@ -7,8 +7,9 @@
   (title_block
     (title "Analog Discovery rs232 5 wire sniffer")
     (date "2023-09-29")
-    (rev "V0.1")
+    (rev "V0.2.1")
     (company "JUBEORMK1 @ GITHUB")
+    (comment 1 "Chages: C2 from 0402 to 0603")
   )
 
   (lib_symbols
@@ -3255,7 +3256,7 @@
     (property "Value" "1.0uF" (at 172.085 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 169.2402 56.515 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 169.2402 56.515 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf" (at 168.275 52.705 0)
